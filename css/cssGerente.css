@@ -1,0 +1,66 @@
+#div_1{
+		/*background-color: #00FF7F;*/
+		height: 120px;
+	}
+#div_2{
+		/*background-color: #1E90FF;*/
+		height: 120px;
+		text-align: center;
+	}
+#div_2_1 {
+		/*background-color: #00FF7F;*/
+		height: 120px;
+	}
+#div_3{
+		/*background-color: #40E0D0;*/
+		min-height: 550px;
+	}
+#div_4{
+		/*background-color: #000000;
+		border: 2px;
+		border-style: solid;
+		border-color:#000000;*/
+		min-height: 550px;
+}
+	}
+#div_5{
+		/*background-color: #8B4513;*/
+		min-height: 550px;
+	}
+#div_6{
+		/*background-color: #EE82EE;*/
+		height: 100px;
+	}
+#div_dados_funcionario{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+#div_botaoFuncionarios{
+	min-height: 275px;
+	border: 2px;
+	border-style: solid;
+	border-color:#000000;
+	
+}
+#div_botaoProdutos{
+	min-height: 275px;
+	border: 2px;
+	border-style: solid;
+	border-color:#000000;
+	
+}
+#div_botaoVendas{
+	min-height: 275px;
+	border: 2px;
+	border-style: solid;
+	border-color:#000000;
+	
+}
+#div_botaoDuvidas{
+	min-height: 275px;
+	border: 2px;
+	border-style: solid;
+	border-color:#000000;
+	
+}

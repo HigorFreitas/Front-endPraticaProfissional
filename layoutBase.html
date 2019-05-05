@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Título da páginaInserindo bootstrap4</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	
+	
+	<style type="text/css">
+	#div_1{
+		background-color: #00FF7F;
+		height: 120px;
+	}
+	#div_2{
+		background-color: #1E90FF;
+		height: 120px;
+	}
+	#div_3{
+		background-color: #40E0D0;
+		min-height: 450px;
+	}
+	#div_4{
+		background-color: #000000;
+		min-height: 450px;
+	}
+	#div_5{
+		background-color: #8B4513;
+		min-height: 450px;
+	}
+	#div_6{
+		background-color: #EE82EE;
+		height: 100px;
+	}
+	#texto_branco{
+		color: #FFFFFF;
+	}
+	@media screen and (max-width: 576px){
+		#div_1{
+			height: 80px;
+		}
+		#div_2{
+			height: 40px;
+		}
+	}
+	</style>
+	
+	
+	</head>
+	<body>
+		<div class="container-fluid">
+			<div class="row">
+				<div id="div_1" class="col-sm-2 col-xs-12">
+					<h1> LOGO </h1>
+				</div>
+				<div id="div_2" class="col-sm-10 col-xs-12">
+					<h1> T[ITULO E/OU MENU SUPERIOR </h1>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div id="div_3" class="col-sm-2 d-none d-sm-block">
+					<h1> MENU LATERAL OU ESPAÇO </h1>
+				</div>
+				<div id="div_4" class="col-sm-8">
+					<h1 id="texto_branco"> CONTEÚDO PRINCIPAL </h1>
+				</div>
+				<div id="div_5" class="col-sm-2 d-none d-sm-block">
+					<h1> ESPAÇO </h1>
+				</div>
+			</div>
+			
+			<div class="row">
+			<div id="div_6" class="col-12">
+				<h1> RODAPÉ </h1>
+			</div>
+			</div>
+	
+		</div>
+	</body>
+</html>

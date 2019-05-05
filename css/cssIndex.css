@@ -1,0 +1,39 @@
+#div_1{
+		/*background-color: #00FF7F;*/
+		height: 120px;
+	}
+#div_2{
+		/*background-color: #1E90FF;*/
+		height: 120px;
+	}
+#div_3{
+		/*background-color: #40E0D0;*/
+		min-height: 450px;
+	}
+#div_4{
+		/*background-color: #000000;*/
+		min-height: 450px;
+	}
+#div_5{
+		/*background-color: #8B4513;*/
+		min-height: 450px;
+	}
+#div_6{
+		/*background-color: #EE82EE;*/
+		height: 100px;
+	}
+	
+#div_login{
+		width: 50%;
+		margin: auto;
+		text-align: center;
+}
+	
+	@media screen and (max-width: 576px){
+		#div_1{
+			height: 80px;
+		}
+		#div_2{
+			height: 40px;
+		}
+	}
