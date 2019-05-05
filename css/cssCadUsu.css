@@ -38,38 +38,6 @@
 	margin: auto;
 	text-align: center;
 }
-#div_botaoFuncionarios{
-	min-height: 275px;
-	border: 2px;
-	border-style: solid;
-	border-color:#000000;
-	text-align: center;
-	
-}
-#div_botaoProdutos{
-	min-height: 250px;
-	border: 2px;
-	border-style: solid;
-	border-color:#000000;
-	text-align: center;
-	
-}
-#div_botaoVendas{
-	min-height: 250px;
-	border: 2px;
-	border-style: solid;
-	border-color:#000000;
-	text-align: center;
-	
-}
-#div_botaoDuvidas{
-	min-height: 250px;
-	border: 2px;
-	border-style: solid;
-	border-color:#000000;
-	text-align: center;
-	
-}
 #div_titulo_pag{
 	text-align: center;
 }
